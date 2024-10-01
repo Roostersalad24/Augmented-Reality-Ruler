@@ -19,7 +19,7 @@ https://www.linkedin.com/in/andrewjohnsonmga/
 
 ### Version History
 - 0.1 
-Initial build using UIkit on Xcode 15, using Swift 5. iPad compatibility only upon initial build
+Initial build using UIkit on Xcode 15, using Swift 5. 
 
 ### Upcoming features
 - Switch between inches and cm.
